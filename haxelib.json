@@ -1,0 +1,14 @@
+{
+	"name":"hxml",
+	"license":"MIT",
+	"tags":["haxelib","utility"],
+	"description":"install haxelibs automatically from hxml files",
+	"contributors":["wighawag"],
+	"releasenote":"first version",
+	"version":"0.0.1",
+	"url":"https://github.com/wighawag/hxml",
+	"classPath":"src",
+	"dependencies":{
+		"mcli":"0.1.3"
+	}
+}
