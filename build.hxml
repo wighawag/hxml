@@ -1,4 +1,4 @@
 -neko run.n
 -main hxml.Main
 -cp src
--lib mcli:0.1.3
+-lib mcli:0.1.3 
